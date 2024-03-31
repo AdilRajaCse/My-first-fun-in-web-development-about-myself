@@ -132,10 +132,10 @@ a:hover {
 .btn:hover {
   background: #141414;
   background-image: -webkit-linear-gradient(top, #1d1e1e, #060606);
-  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #101111, #151716);
+  background-image: -ms-linear-gradient(top, #121312, #000101);
+  background-image: -o-linear-gradient(top, #090909, #0c0c0c);
+  background-image: linear-gradient(to bottom, #101111, #040505);
   text-decoration: none;
 }
 
